@@ -1,2 +1,2 @@
-# the-reading-room-trial
-the reading room trial
+# the-reading-room
+the reading room
